@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BitBucket_Clone/static/css/main.af427701.css",
+    "main.js": "/BitBucket_Clone/static/js/main.87f501b6.js",
+    "index.html": "/BitBucket_Clone/index.html",
+    "main.af427701.css.map": "/BitBucket_Clone/static/css/main.af427701.css.map",
+    "main.87f501b6.js.map": "/BitBucket_Clone/static/js/main.87f501b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af427701.css",
+    "static/js/main.87f501b6.js"
+  ]
+}
